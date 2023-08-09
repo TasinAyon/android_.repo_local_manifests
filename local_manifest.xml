@@ -2,7 +2,7 @@
 <manifest>
 
 	<remote  name="ayon"
-		fetch="https://github.com/AyOn9914"/>
+		fetch="https://github.com/TasinAyon"/>
  
  	<project path="device/redmi/begonia" name="android_device_redmi_begonia" remote="ayon" revision="13.0"/>
 	<project path="kernel/xiaomi/mt6785" name="android_kernel_xiaomi_mt6785" remote="ayon" revision="13.0"/>
